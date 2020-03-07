@@ -1,0 +1,19 @@
+p {
+	font-size: large;
+}
+
+h3 {
+	text-align: center;
+}
+
+.navbar {
+	width: 120% !important;
+	margin: 0px auto;
+	left: -10%;
+	right: -15%;
+	padding: 10px;
+}
+
+.navbar-brand {
+	font-size: x-large;
+}
